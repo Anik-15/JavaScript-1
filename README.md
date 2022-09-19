@@ -105,7 +105,7 @@
 			Define: (var var_name= elements)
 			EX: var fruits= ['apple','banana','orange','malta'];
 			        document.write(fruits[2] + '<br />');
-		ii) Object: Ita start Second Brackets -- { } 
+		ii) Object: Its start Second Brackets -- { } 
 		            Define: (var var_name= elements)
 		            EX: var color= {  	
 			"0": 'teal',
