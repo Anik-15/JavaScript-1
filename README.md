@@ -95,6 +95,8 @@
 				 var multi = null;      (object)
 				 document.write (typeof multi + '<br/>');
 			</script>
+		--------------------------------------------------------------------
+		vi) Symbol:
 
 
 	        Composite Type: 2 parts of Composite Type.
