@@ -25,14 +25,18 @@
 	8) Form Validation etc.
 
 ### kinds of Javascript:
-	1) Internal: use to head or body dection with script tag. 
+        1) Inline: onclick, onmouseover, onmouseout --> JS Attribute
+	   Ex: i) <button onclick= "alert=('Hello')">Click Me</button>
+	       ii) <marquee onmouseover="this.stop()" onmouseout="this.start()">Hello My Dear</marquee>
+	   
+	2) Internal: use to head or body dection with script tag. 
 		     Always js use head seection because its working better.
 		Example: <head>
 			  <script>
 				you write a javascript coding.
 		                      </script>
 		                 </head>
-	2) External: you create a (.js) external file and you link this html page. 
+	3) External: you create a (.js) external file and you link this html page. 
 		     you link external file by script tag.
 		     Always write body end section but its head body two section working.
 		   Example: <script src="main.js" type="text/javascript"></script> 
