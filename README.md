@@ -74,6 +74,9 @@
 		v) Null : Undefinded & null almost same. one diiferent of undefined. 
 			  null always assign null but undefiend dont assign undefined.
 		          null is a blank object. 
+			  
+	        --------------------------------------------------------------------
+		vi) Symbol:
 
 	              (EX):
 			  <script>
@@ -95,10 +98,7 @@
 				 var multi = null;      (object)
 				 document.write (typeof multi + '<br/>');
 			</script>
-		--------------------------------------------------------------------
-		vi) Symbol:
-
-
+		
 	        Composite Type: 2 parts of Composite Type.
 	   ================================
 		i) Array: Its start Third Brackets --  [ ]
