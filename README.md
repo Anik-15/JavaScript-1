@@ -27,7 +27,7 @@
 ### kinds of Javascript:
         1) Inline: onclick, onmouseover, onmouseout --> JS Attribute
 	       Ex: i) <button onclick= "alert=('Hello')">Click Me</button>
-	       ii) <marquee onmouseover="this.stop()" onmouseout="this.start()">Hello My Dear</marquee>
+	           ii) <marquee onmouseover="this.stop()" onmouseout="this.start()">Hello My Dear</marquee>
 	   
 	2) Internal: use to head or body dection with script tag. 
 		     Always js use head seection because its working better.
