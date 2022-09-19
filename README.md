@@ -40,6 +40,12 @@
 		     you link external file by script tag.
 		     Always write body end section but its head body two section working.
 		   Example: <script src="main.js" type="text/javascript"></script> 
+		   
+### Mouse Event/Method:
+      onclick
+      ondblclick
+      onmousemove
+      onmouseout
 
 ### javascript comments:
 		Single line comments you use 2 slash ~ (//content )
